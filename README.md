@@ -8,6 +8,10 @@ _The information presented here is for educational purposes only. It is crucial 
 _All information presented in this repository is sourced from the respective course's materials._
 
 
+## Contents
+- [Task 1: Design a phishing email simulation](#task-1-design-a-phishing-email-simulation)
+- [Task 2: Interpret phishing simulation results](#task-2-interpret-phishing-simulation-results)
+
 ## Task 1: Design a phishing email simulation
 
 #### What you'll learn
@@ -188,6 +192,8 @@ Remember that employees at times view training as boring - so try to make the pr
 ### Example Presentation
 
 Take a look at the example presentation, which has been prepared by a Security Awareness professional at Mastercard, to learn how they would have approached this task.
+
+[Link to Presentation](Task 2 - Answer.pdf)
 
 The main takeaway points from the example presentation include:
 
