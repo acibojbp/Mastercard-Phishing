@@ -193,7 +193,7 @@ Remember that employees at times view training as boring - so try to make the pr
 
 Take a look at the example presentation, which has been prepared by a Security Awareness professional at Mastercard, to learn how they would have approached this task.
 
-[Link to Presentation](Task 2 - Answer.pdf)
+[Link to Presentation](Task%202%20-%20Answer.pdf)
 
 The main takeaway points from the example presentation include:
 
