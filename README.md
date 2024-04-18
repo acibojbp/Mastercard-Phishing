@@ -119,4 +119,78 @@ There are many ways you could have attempted this task, as phishing emails come 
 
 ![Screenshot 2024-04-18 050305](https://github.com/acibojbp/Mastercard-Phishing/assets/164168280/7d92d1b4-5b8e-46f7-9ea2-b10041a7d581)
 
+## Task 2: Interpret phishing simulation results
 
+#### What you'll learn
+
+- How to identify which areas of the business need more awareness about phishing
+- How to design and implement the appropriate training for those teams to lower our risk of an attack
+
+#### What you'll do
+
+- Create a short presentation to help teams improve security awareness
+
+### It's time to identify and train your teams
+
+The phishing simulation designed in the first task was run last week. So, what’s next?
+
+We’ve used some tools to analyze the results and we can see the failure rate of each department - it is clear that some teams appear more likely to fall for a phishing email than others.
+
+Now that we have these results, we need to:
+
+- **identify** which areas of the business need **more awareness** about phishing, and
+- **design** and **implement** the appropriate **training** for those teams to lower our risk of an attack.
+
+### Interpret the results
+
+First, let’s have a look at the results of the phishing campaign.
+
+This table helps you to identify which teams appear to be **more likely** to fall for a phishing email than others.
+
+| **Team**            | **Email open rate** | **Email click-through rate** | **Phishing success rate** |
+| ------------------- | ------------------- | ---------------------------- | ------------------------- |
+| IT                  | 80%                 | 2%                           | 0%                        |
+| HR                  | 100%                | 85%                          | 75%                       |
+| Card Services       | 60%                 | 50%                          | 10%                       |
+| Reception           | 40%                 | 10%                          | 0%                        |
+| Engineering         | 70%                 | 4%                           | 1%                        |
+| Marketing           | 65%                 | 40%                          | 38%                       |
+| R&D                 | 50%                 | 5%                           | 2%                        |
+| **Overall average** | **66%**             | **28%**                      | **18%**                   |
+
+When you’re ready, start the quick quiz to see if you’ve correctly identified the most vulnerable teams. 
+
+### Here are some resources to help you
+
+The percentages shown are based off the total number of staff members who **received** the email. 
+
+For example if 100 people received the email and 50 people opened it - the email open rate would be 50%.
+
+- **Email open rate** = the percentage of people that opened it
+- **Email click-through rate** = the percentage of people that clicked on the link
+- **Phishing success rate** = the percentage of people that clicked the link and inputted some personal information
+
+Which teams performed poorly in the phishing simulation?
+
+- Marketing and Card Services teams  
+- IT and Reception teams  
+- **HR and Marketing teams**  
+- HR and Engineering teams  
+  
+Correct! The HR and Marketing teams performed poorly in the simulation and should receive further training.
+
+### Create a short presentation
+
+Now that you've analyzed the results, it's time to create a short presentation (3-5 slides) providing some awareness and training materials for the two teams that appear to be most susceptible. This will help us improve the security awareness of the teams that performed poorly in this campaign.
+
+Remember that employees at times view training as boring - so try to make the presentation clear, concise and easy to understand. Try to educate employees on what phishing is, as well as provide examples of tactics often used. Use any resources you choose, the more creative, the better!
+
+### Example Presentation
+
+Take a look at the example presentation, which has been prepared by a Security Awareness professional at Mastercard, to learn how they would have approached this task.
+
+The main takeaway points from the example presentation include:
+
+1. They use contextual & visual examples of how to spot phishing emails
+2. The presentation is clear, concise & heavy on the visuals
+3. They provide clear & concise action points
