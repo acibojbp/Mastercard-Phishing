@@ -89,30 +89,29 @@ Here is the obvious fake:
 ![Screenshot 2024-04-18 063848](https://github.com/acibojbp/Mastercard-Phishing/assets/164168280/0daaeb36-d43f-432b-b20a-102d13eac738)
 
 My improvements:
-```
-From: support@mastercard.com
-To: employee@email.com 
-Subject: URGENT: Action Required - Password Reset
 
-Body: 
-
-Dear [Employee's Name],
-
-We regret to inform you that there has been suspicious activity detected on your Mastercard employee email account. To ensure the security of your account and prevent any unauthorized access, we require your immediate action to reset your password.
-
-Please follow the link below to reset your password securely within the next hour:
-
-[Reset Password Now]
-
-Failure to reset your password within the specified time frame may result in temporary suspension of your account for security reasons.
-
-If you have any concerns or require assistance, please do not hesitate to contact our IT support team at support@mastercard.com.
-
-Thank you for your prompt attention to this matter.
-
-Best regards,
-Mastercard IT Support Team
-```
+> From: support@mastercard.com  
+> To: employee@email.com   
+> Subject: URGENT: Action Required - Password Reset  
+> 
+> Body: 
+> 
+> Dear [Employee's Name],
+> 
+> We regret to inform you that there has been suspicious activity detected on your Mastercard employee email account. To ensure the security of your account and prevent any unauthorized access, we require your immediate action to reset your password.
+> 
+> Please follow the link below to reset your password securely within the next hour:
+> 
+> [Reset Password Now]()
+> 
+> Failure to reset your password within the specified time frame may result in temporary suspension of your account for security reasons.
+> 
+> If you have any concerns or require assistance, please do not hesitate to contact our IT support team at support@mastercard.com.
+> 
+> Thank you for your prompt attention to this matter.
+> 
+> Best regards,  
+> Mastercard IT Support Team
 
 ### Example Phishing Email
 
